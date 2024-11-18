@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\sections\\firstday\\Assisgment Desk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|C:\\sections\\firstday\\Assisgment Desk\\assisgment desk\\task.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\task.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|c:\\sections\\firstday\\assisgment desk\\assisgment desk\\usermangment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\usermangment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|C:\\sections\\firstday\\Assisgment Desk\\assisgment desk\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|c:\\sections\\firstday\\assisgment desk\\assisgment desk\\usermangment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\usermangment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|C:\\sections\\firstday\\Assisgment Desk\\assisgment desk\\task.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\task.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|C:\\sections\\firstday\\Assisgment Desk\\assisgment desk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|C:\\sections\\firstday\\Assisgment Desk\\assisgment desk\\task.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\task.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|c:\\sections\\firstday\\assisgment desk\\assisgment desk\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|C:\\sections\\firstday\\Assisgment Desk\\assisgment desk\\usermangment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\usermangment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|C:\\sections\\firstday\\Assisgment Desk\\assisgment desk\\task.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\task.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|C:\\sections\\firstday\\Assisgment Desk\\assisgment desk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|solutionrelative:assisgment desk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49031F5F-4476-41F1-847D-3239A5835D39}|Assisgment Desk\\Assisgment Desk.csproj|C:\\sections\\firstday\\Assisgment Desk\\assisgment desk\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Task.xaml",
               "DocumentMoniker": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\Task.xaml",
               "RelativeDocumentMoniker": "Assisgment Desk\\Task.xaml",
@@ -62,17 +62,18 @@
               "RelativeToolTip": "Assisgment Desk\\Task.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-17T09:02:17.403Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Task.xaml.cs",
               "DocumentMoniker": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\Task.xaml.cs",
               "RelativeDocumentMoniker": "Assisgment Desk\\Task.xaml.cs",
               "ToolTip": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\Task.xaml.cs",
               "RelativeToolTip": "Assisgment Desk\\Task.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T09:06:18.809Z",
               "IsPinned": true,
@@ -80,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\Model1.edmx",
               "RelativeDocumentMoniker": "Assisgment Desk\\Model1.edmx",
@@ -92,13 +93,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserMangment.xaml.cs",
               "DocumentMoniker": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\UserMangment.xaml.cs",
               "RelativeDocumentMoniker": "Assisgment Desk\\UserMangment.xaml.cs",
               "ToolTip": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\UserMangment.xaml.cs",
               "RelativeToolTip": "Assisgment Desk\\UserMangment.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T09:32:12.825Z",
               "EditorCaption": ""
@@ -140,7 +141,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\App.xaml",
+              "RelativeDocumentMoniker": "Assisgment Desk\\App.xaml",
+              "ToolTip": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\App.xaml",
+              "RelativeToolTip": "Assisgment Desk\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T06:59:21.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserMangment.xaml",
               "DocumentMoniker": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\UserMangment.xaml",
               "RelativeDocumentMoniker": "Assisgment Desk\\UserMangment.xaml",
@@ -148,17 +161,6 @@
               "RelativeToolTip": "Assisgment Desk\\UserMangment.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-17T06:58:44.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\App.xaml",
-              "RelativeDocumentMoniker": "Assisgment Desk\\App.xaml",
-              "ToolTip": "C:\\sections\\firstday\\Assisgment Desk\\Assisgment Desk\\App.xaml",
-              "RelativeToolTip": "Assisgment Desk\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T06:59:21.376Z"
             },
             {
               "$type": "Document",
