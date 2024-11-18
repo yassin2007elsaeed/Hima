@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DesktoopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="Taskid" />
+    </Key>
+    <Property Name="Taskid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Descriptionn" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Statuss" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DueDate" Type="DateTime" Precision="3" />
+    <Property Name="Userid" Type="Int32" />
+    <NavigationProperty Name="Userr" Relationship="Self.FK__Tasks__Userid__3A81B327" FromRole="Tasks" ToRole="Userr" />
+  </EntityType>
+  <EntityType Name="Userr">
+    <Key>
+      <PropertyRef Name="Userid" />
+    </Key>
+    <Property Name="Userid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Namee" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Passwordd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Rolee" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tasks" Relationship="Self.FK__Tasks__Userid__3A81B327" FromRole="Userr" ToRole="Tasks" />
+  </EntityType>
+  <Association Name="FK__Tasks__Userid__3A81B327">
+    <End Role="Userr" Type="Self.Userr" Multiplicity="0..1" />
+    <End Role="Tasks" Type="Self.Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Userr">
+        <PropertyRef Name="Userid" />
+      </Principal>
+      <Dependent Role="Tasks">
+        <PropertyRef Name="Userid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DesktoopEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tasks" EntityType="Self.Task" />
+    <EntitySet Name="Userrs" EntityType="Self.Userr" />
+    <AssociationSet Name="FK__Tasks__Userid__3A81B327" Association="Self.FK__Tasks__Userid__3A81B327">
+      <End Role="Userr" EntitySet="Userrs" />
+      <End Role="Tasks" EntitySet="Tasks" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

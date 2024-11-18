@@ -1,0 +1,28 @@
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\bin\Debug\Assisgment Desk.exe.config
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\bin\Debug\Assisgment Desk.exe
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\bin\Debug\Assisgment Desk.pdb
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\bin\Debug\EntityFramework.dll
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\bin\Debug\EntityFramework.SqlServer.dll
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\bin\Debug\EntityFramework.xml
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\bin\Debug\EntityFramework.SqlServer.xml
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment Desk.csproj.AssemblyReference.cache
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Login.g.cs
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\MainWindow.g.cs
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\UserMangment.g.cs
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\App.g.cs
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment Desk_Content.g.cs
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment Desk_MarkupCompile.cache
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment Desk_MarkupCompile.lref
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\App.baml
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Login.baml
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\MainWindow.baml
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\UserMangment.baml
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment Desk.g.resources
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment_Desk.Properties.Resources.resources
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment Desk.csproj.GenerateResource.cache
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment Desk.csproj.CoreCompileInputs.cache
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgme.56338A9F.Up2Date
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment Desk.exe
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Assisgment Desk.pdb
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Task.g.cs
+C:\sections\firstday\Assisgment Desk\Assisgment Desk\obj\Debug\Task.baml

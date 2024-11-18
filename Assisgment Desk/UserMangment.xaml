@@ -1,0 +1,73 @@
+﻿<Page x:Class="Assisgment_Desk.UserMangment"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Assisgment_Desk"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="UserMangment">
+
+    <Grid>
+        <Grid.Background >
+            <ImageBrush ImageSource="wallpapersden.com_abstract-wave-grey-duotone_2560x1435.jpg" />
+
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Row="1" Name="Datagrid">
+            
+        </DataGrid>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="0" HorizontalAlignment="Left" >
+                <Label Content="Task Id" Style="{StaticResource Label2}" FontSize="20px"/>
+                <TextBox Name="Id" Style="{StaticResource Text}" Margin="0,0,0,5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="0" HorizontalAlignment="Center" >
+                <Label Content="Status" Style="{StaticResource Label2}" FontSize="20px" />
+                <ComboBox Name="comb" Height="25" Width="100" >
+                    <ComboBoxItem>Compeleted</ComboBoxItem>
+                    <ComboBoxItem>Pending</ComboBoxItem>
+                    <ComboBoxItem>In progress</ComboBoxItem>
+                </ComboBox> 
+
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Left" >
+                <Label Content="Tittle" Style="{StaticResource Label2}" FontSize="20px"/>
+                <TextBox Name="name" Style="{StaticResource Text}" Margin="0,0,0,5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center" Margin="50,0,0,5" >
+                <Label Content="Employee Name" Style="{StaticResource Label2}" FontSize="20px"/>
+                <TextBox Name="Email" Style="{StaticResource Text}" Margin="0,0,0,5"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Left" >
+                <Label Content="Decription" Style="{StaticResource Label2}" FontSize="20px"/>
+                <TextBox Name="Des" Style="{StaticResource Text}" Margin="0,0,0,5"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Left" Margin="10,0,0,0">
+                <Button Name="add" Content="Add" Style="{StaticResource Button}" Click="add_Click"/>
+            </StackPanel>
+            <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10,0,0,0">
+                <Button Name="Edit" Content="Edit" Style="{StaticResource Button}" Click="Edit_Click"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,0,0,0">
+                <Button Name="Del" Content="Delete" Style="{StaticResource Button}" Click="Del_Click"/>
+            </StackPanel>
+
+
+        </Grid>
+    </Grid>
+</Page>

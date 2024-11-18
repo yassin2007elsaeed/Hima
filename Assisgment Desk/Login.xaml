@@ -1,0 +1,31 @@
+﻿<Page x:Class="Assisgment_Desk.Login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Assisgment_Desk"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Login">
+
+    <Grid>
+        <Grid.Background >
+            <ImageBrush ImageSource="wallpapersden.com_abstract-wave-grey-duotone_2560x1435.jpg" />
+            
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition MaxHeight="70"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Content="Login page" Style="{StaticResource Label}" FontSize="28" HorizontalAlignment="Center"/>
+        <Label  Grid.Row="1" Content="Email" Style="{StaticResource Label}" FontSize="20px"  HorizontalAlignment="Left" Margin="260,82,0,128" Grid.RowSpan="2"/>
+        <TextBox Name="username" Grid.Row="1" Style="{StaticResource Text}" Margin="376,82,274,82"/>
+        <Label Name="password"  Grid.Row="1" Content="Password" Style="{StaticResource Label}" FontSize="20px"  HorizontalAlignment="Left" Margin="260,115,0,95" Grid.RowSpan="2"/>
+        <PasswordBox Name="pass" Grid.Row="1" Height="25" Width="150" Margin="376,115,274,50"/>
+
+        <Button Grid.Row="2" Content="Login" Style="{StaticResource Button}" Click="Button_Click"/>
+    </Grid>
+</Page>
